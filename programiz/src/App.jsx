@@ -2,7 +2,7 @@ import React from "react"
 import{BrowserRouter,Routes,Route} from "react-router-dom"
 import Home from "./Home"
 import Login from "./Login"
-import Python from "./python"
+import Python from "./Python"
 import Signup from "./Signup"
 
 function App(){
